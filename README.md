@@ -1,5 +1,4 @@
 ### Hey, I'm Susanna 👋  
-#### I'm a Computer Science student at UC Davis, and I'm currently looking for software engineering internships!
 
 <!--
 **susannamathew/susannamathew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
